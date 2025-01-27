@@ -2,4 +2,3 @@ services:
   IsMobile\IsMobileBundle\IsMobile:
     arguments:
       $request: '@request_stack'
-
